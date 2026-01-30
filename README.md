@@ -18,8 +18,8 @@ This project demonstrates control of a robotic arm using servo motors and Arduin
 Each joint of the robotic arm is controlled using servo motor angles programmed in Arduino.
 
 ## Project Images
-![Robot](./robotic_arm.jpeg)
-![Robot](./robotic_arm2.jpeg)
+![Robot](./robotic%20arm.jpeg)
+![Robot](./robotic%20arm%202.jpeg)
 
 ## How to run
 1. Upload the .ino file to Arduino IDE
